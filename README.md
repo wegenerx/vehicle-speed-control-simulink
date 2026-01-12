@@ -10,8 +10,8 @@ control system developed as a course project for *Automatic Control Theory*.
 - Control objective: vehicle speed tracking under step reference
 
 ## Files
-- `vehicle_openloop.slx` — open-loop vehicle model (force input)
-- `vehicle_closedloop.slx` — closed-loop speed control with PI controller
+- `vehicle.slx` — vehicle model
+
 
 ## Simulation Environment
 - MATLAB / Simulink (tested on R2022b)
